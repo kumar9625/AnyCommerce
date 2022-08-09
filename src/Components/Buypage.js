@@ -18,7 +18,7 @@ const Buypage = ({ addInCart }) => {
 const apiKey = "563492ad6f917000010000015367d641e29c4d9eb83e0243ad6f3759"
     const [product, setProduct] = useState([]);
     const [query, setQuery] = useState("laptops");
-    const url = `https://api.pexels.com/v1/search?query=${query}&per_page=8`
+    const url = `https://api.pexels.com/v1/search?query=${query}&per_page=9`
 
 
 
