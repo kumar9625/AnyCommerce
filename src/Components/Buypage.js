@@ -70,7 +70,7 @@ const apiKey = "563492ad6f917000010000015367d641e29c4d9eb83e0243ad6f3759"
 
 
         <Container fluid>
-            <h1 className="text-primary text-center display-1">Re-Commerce</h1>
+            <h1 className="text-primary text-center display-1">Any-Commerce</h1>
 
             <Form onSubmit={handleSubmit}>
                 <InputGroup>
